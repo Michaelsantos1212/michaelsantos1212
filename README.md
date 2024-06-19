@@ -3,7 +3,7 @@
 Meu nome é Michael Santos.
 * Sou professor na Secretaria de Estado do Paraná.
 * Estou me desenvolvendo na linguagem JavaScript. 
-* Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvovolvidos. 
+* Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos. 
 
 Para entrar em contato comigo:  
 

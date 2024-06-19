@@ -1,7 +1,7 @@
 ## Bem Vindos ao meu perfil 👨‍🏫
 
 Meu nome é Michael Santos.
-* Sou professor na Secretaria de Estado do Paraná.
+* Sou professor na Secretaria Estadual de Educação do Paraná.
 * Estou me desenvolvendo na linguagem JavaScript. 
 * Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos. 
 
